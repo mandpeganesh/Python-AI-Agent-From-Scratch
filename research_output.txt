@@ -1,0 +1,39 @@
+--- Research Output ---
+Timestamp: 2025-03-19 21:16:14
+
+Indian Cinema Research Summary
+
+Indian cinema represents one of the world's largest and most influential film industries, with multiple regional industries contributing to its rich cultural tapestry. The industry experienced significant growth after India's independence in 1947, with various regional film industries like Bollywood (Hindi), Kollywood (Tamil), and Tollywood (Bengali) developing their unique styles and narratives.
+
+Key developments:
+1. Post-Independence Era (1947): Rapid growth in filmmaking with focus on social realism
+2. Classic Period: Marked by works of directors like Satyajit Ray (Apu trilogy)
+3. Regional Cinema: Development of distinct film industries in different languages
+4. Modern Era: Integration of new technologies and global storytelling techniques
+
+Notable aspects:
+- Social realism in early films like Neecha Nagar (1946) and Do Bigha Zamin (1953)
+- Influence of international cinema movements like Italian Neorealism
+- Star system and cultural impact of actors becoming cultural icons
+- Global reach and influence on international pop culture
+- Technological advancement and adaptation in the new millennium
+
+The industry continues to evolve with modern technology while maintaining its distinctive cultural identity and storytelling traditions.
+
+--- Research Output ---
+Timestamp: 2025-03-19 21:18:07
+
+{
+  "topic": "Indian Cricket: A Historical Overview",
+  "summary": "The Indian cricket team, established with the formation of the Board of Control for Cricket in India (BCCI) in 1928, has emerged as one of cricket's powerhouse nations. Their journey began with their first Test match against England at Lord's Cricket Ground in 1932. Over the decades, India has achieved remarkable success in international cricket, including two ICC Cricket World Cup victories (1983 under Kapil Dev and 2011 under MS Dhoni). The team has played 589 Test matches with 181 victories, and has consistently been among the top-ranked teams across all formats. Notable achievements include the historic 2020-21 series win in Australia, featuring the memorable victory at the Gabba. The team, often referred to as the 'Men in Blue,' has produced numerous cricket legends and continues to be a dominant force in world cricket, currently holding both the T20 World Championship and Champions Trophy titles.",
+  "sources": [
+    "Search results on Indian cricket history and achievements",
+    "Wikipedia article on India national cricket team"
+  ],
+  "tools_used": [
+    "Search",
+    "wikipedia",
+    "save_text_to_file"
+  ]
+}
+
