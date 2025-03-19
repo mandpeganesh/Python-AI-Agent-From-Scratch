@@ -21,8 +21,8 @@ A powerful AI research agent built with LangChain and Claude 3.5 Sonnet that gen
 
 ```bash
 # Clone this repository
-git clone <repository-url>
-cd AI-AGENT-TUTORIAL
+git clone https://github.com/mandpeganesh/Python-AI-Agent-From-Scratch.git
+cd Python-AI-Agent-From-Scratch
 
 # Create and activate a virtual environment
 python -m venv venv
